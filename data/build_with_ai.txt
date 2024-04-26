@@ -1,0 +1,126 @@
+Convocatoria Hackathon Build with AI Bolivia
+Del 4 al 5 de mayo del 2024
+La Paz, Bolivia
+* Última edición: 19 de abril
+*El registro cierra el 25 de abril o hasta agotar los cupos.
+
+Presentación:
+La inteligencia artificial (IA) desempeña un papel crucial en la actualidad al transformar fundamentalmente la manera en que interactuamos con la tecnología y abordamos los desafíos en diversos campos. Su capacidad para analizar grandes cantidades de datos de manera rápida y precisa ha revolucionado sectores como la salud, el comercio electrónico, la automoción y la atención al cliente, entre otros. Además, la IA impulsa avances significativos en la investigación científica, la toma de decisiones empresariales y la creación de nuevos productos y servicios. Su capacidad para aprender de forma autónoma y mejorar continuamente la hace indispensable en un mundo cada vez más digitalizado y orientado a la innovación.
+¿Qué es Build with AI?
+Los eventos Build with AI son talleres técnicos o hackatones organizados por Google Developer Groups (GDG). Los eventos tienen como objetivo ayudar a los desarrolladores a aprender y aplicar sus habilidades sobre las tendencias y productos  de Inteligencia Artificial Generativa de Google. 
+Build with AI en Bolivia
+Las comunidades GDG (Google Developer Groups) de La Paz, Cochabamba, Santa Cruz, Sucre y Tarija están colaborando por primera vez para organizar la hackathon tecnológica más grande del país centrada en el uso de la Inteligencia Artificial. Este evento incluirá una hackathon que se llevará a cabo los días 4 y 5 de mayo de 2024 en la ciudad de La Paz, Bolivia.
+Sobre la Hackathon:
+¿Qué es una Hackathon?
+Una hackathon es un evento colaborativo en el que programadores, diseñadores y otros profesionales se reúnen para desarrollar proyectos de software de forma intensiva y creativa durante un periodo de tiempo limitado. Las hackathons fomentan la colaboración, el aprendizaje y la creatividad a través de tecnología aplicada a la ciencia, negocios o causas sociales. Durante la hackathon, los participantes trabajan en equipos para crear soluciones innovadoras a desafíos propuestos, utilizando sus habilidades técnicas y creativas para desarrollar prototipos funcionales y presentarlos al final del evento. 
+Temática de la Hackathon
+
+El propósito de la hackathon es desarrollar proyectos que aborden uno o varios Objetivos de Desarrollo Sostenible (ODS), con un enfoque en Bolivia. El evento tiene como objetivo fomentar la conciencia y el compromiso con el desarrollo sostenible en el país, incentivando la colaboración y la creatividad entre los participantes para lograr un impacto positivo en la sociedad y el medio ambiente mediante el uso de la Inteligencia Artificial y otras tecnologías innovadoras.
+
+
+Para más información puede consultar el siguiente enlace: https://www.undp.org/sustainable-development-goals
+Participantes
+La hackathon está abierta a personas con la mayoría de edad (18 años) cuyo perfiles y habilidades respondan a: programadores, diseñadores, ingenieros, estudiantes, emprendedores y profesionales interesados en el desarrollo sostenible. Se busca reunir a una comunidad diversa y apasionada, dispuesta a colaborar y aportar sus conocimientos y experiencias para crear soluciones innovadoras que beneficien a la sociedad boliviana. 
+
+Sobre los participantes:
+Los equipos estarán compuestos por un mínimo de 3 y un máximo de 5 integrantes.
+Cada uno de los cuales debe completar su registro de manera individual en el siguiente formulario: b.link/RegistroBuildWithAI
+Cada participante solo podrá formar parte de un equipo durante la hackathon.
+El registro puede hacerse sin un equipo previamente formado. Sin embargo, antes de la hackathon, se formarán equipos con las personas que se hayan inscrito de forma individual. 
+Cada persona tendrá que estar registrada en la página GDG (Se controlará antes de iniciar con el evento): b.link/RegistroGDGBuildWithAI
+Se tendrán 150 cupos de participantes para participar en la hackathon 
+Registro
+Para completar el registro, cada participante deberá realizar el pago correspondiente según el paquete de interés de Bs. 130 o Bs. 200. El comprobante de pago deberá ser enviado a través de b.link/RegistroBuildWithAI, donde también se encuentran disponibles los datos bancarios necesarios para hacer el depósito.
+
+
+
+El pago de registro incluye:
+Participación del evento
+Créditos para Google Cloud y acceso a Cloud Skills Boost (Por confirmar)
+Guía AI with Google
+Contenido del paquete que seleccionó
+Alimentación por los dos días de evento
+Regalos de diversas comunidades
+
+La Guía de AI with Google es un documento que hemos preparado especialmente para este evento. En ella encontrarás información sobre todas las rutas de aprendizaje de cursos y talleres que ofrece Google para aprender sobre inteligencia artificial. La guía también incluirá codelabs (guías de código paso a paso) para utilizar diversas tecnologías de Google, como Gemma, Gemini, Vertex AI, TensorFlow, Google Cloud, entre otras. Por último, se incluirán adicionalmente blogs, videos, códigos y diversos recursos sobre IA.
+
+*El registro cierra el 25 de abril o hasta agotar los cupos.
+Previos al Evento 
+Con el objetivo de preparar a los participantes se tiene programado una serie de actividades  en donde a través de conferencias informativas se abordarán temas técnicos, habilidades blandas, y otros en pro de apoyar y fortalecer a los participantes en diferentes áreas de desarrollo  que serán de mucha ayuda para el día del evento. Todas las conferencias pre-evento serán de forma online y serán comunicadas y transmitidas por las redes sociales de las comunidades GDG.
+
+* El cronograma de actividades se actualizará a medida de la confirmación de talleres o charlas por ponentes nacionales e internacionales. 
+CRONOGRAMA DE ACTIVIDADES
+Actividad
+Fecha
+Modo
+Talleres técnicos de capacitación pre-evento
+ 16 al 27 de abril 2024
+Online
+Conferencia informativa sobre la hackathon
+24 de abril 2024
+Online
+Fecha límite de inscripción
+25 de abril 2024
+Online
+Evento principal en La Paz
+04 al 05 de mayo 2024
+Presencial
+
+
+Evento
+Durante el evento, contaremos con mentores en áreas de desarrollo con experiencia en desarrollo web, móvil, inteligencia artificial, nube, negocios, entre otras, quienes estarán disponibles para responder preguntas y ofrecer orientación en el desarrollo de soluciones.
+
+El cronograma de actividades de los 2 días de concurso será publicado días antes del evento, en este se informará todos los horarios de acreditación, presentaciones, evaluación, etc. Durante el evento se contará con puntos de snack, alimentación, y descanso para la comodidad de los participantes durante los 2 días de evento.
+
+Durante la hackathon, todas las soluciones presentadas deben comenzar a ser desarrolladas a partir de la inauguración del evento. Se llevará a cabo un estricto control para garantizar el cumplimiento de esta regla. No se permitirá la participación de soluciones previamente desarrolladas ni aquellas que formen parte de una startup, solución empresarial o negocio previamente desarrollado. 
+
+El lugar del evento se confirmará en los siguientes días y los participantes deberán permanecer durante los dos días de la hackathon en el establecimiento, cada participante deberá prever su equipo para quedarse a dormir, se recomienda el llevar un sleeping.
+Calificación
+Jurado
+El jurado elegirá a los ganadores de la hackathon de acuerdo a los criterios de calificación mencionados más adelante, la cantidad de ganadores o finalistas será determinada días previos a la hackathon. El jurado estará conformado por 5 personas, quienes serán expertos del área de inteligencia artificial o profesionales de reconocido prestigio en el sector tecnológico en general.
+Criterios de evaluación
+Los proyectos propuestos serán evaluados bajo los siguientes criterios:
+
+Presentación (20%)
+Claridad del problema: El proyecto debe presentar una definición clara del problema que se busca solucionar.
+Originalidad: El proyecto debe ser innovador y proponer una solución novedosa.
+Presentación: Se valorará la calidad de la presentación del proyecto, tanto en su contenido como en su forma.
+
+Impacto (20%)
+Relevancia para los ODS: El proyecto debe abordar un problema concreto y relevante relacionado con los Objetivos de Desarrollo Sostenible (ODS), especificando el ODS al que se dirige la implementación.
+Potencial de impacto: El proyecto debe tener el potencial de generar un impacto positivo y sostenible, con la capacidad de ser medido, basado en el ODS, al cual se dirige la implementación de la solución.
+
+Innovación (20%)
+Uso de la IA: El proyecto debe integrar de manera creativa e inteligente la tecnología de IA para lograr sus objetivos.
+Viabilidad técnica: El proyecto debe ser factible y realizable, tomando en cuenta el uso de tecnologías de inteligencia artificial, así como las limitaciones de recursos, capacidad computacional, bases de datos, entre otros aspectos relevantes.
+
+Sostenibilidad (15%): Se deberá fundamentar cómo se pretende que las propuestas se sostengan con el paso del tiempo.
+Sostenibilidad Económica: El proyecto debe ser viable a largo plazo. Esto incluye considerar modelos de negocio sostenibles, potencial de mercado, y estrategias de financiamiento.
+Integración de Prácticas Sostenibles en el Desarrollo y Operación: Se tomará en cuenta las prácticas sostenibles en el ciclo de vida del proyecto, desde la concepción hasta la implementación y operación.
+Colaboración y Comunidad: Se tomará en cuenta la capacidad del proyecto para fomentar colaboraciones que apoyen la sostenibilidad y cómo involucra a la comunidad en su desarrollo y ejecución.
+
+Ejecución (25%):
+Prototipo funcional: El proyecto debe presentar un prototipo funcional que demuestre viabilidad de la solución propuesta MVP (Producto Mínimo Viable).
+Tecnología: Se evaluarán las tecnologías de inteligencia artificial que respaldan la solución propuesta, incluyendo plataformas low-code y no-code (plataformas que no involucran la escritura de código), modelos utilizados, técnicas de entrenamiento, consumo de API, despliegue de la solución (tanto local como en línea), uso de Jupyter notebooks, visualizaciones de datos, scripts para la ejecución del software y cualquier otra tecnología relevante para el proyecto.
+Uso responsable de la IA: se valorará el uso ético y responsable de la tecnología de IA en el proyecto.
+Premios
+Los premios serán entregados por nuestros patrocinadores, en los que se encuentra hasta la fecha de actualización:
+Más de Bs. 2 000 en premios
+Becas de formación en academias internacionales
+Regalos de patrocinadores.
+Medallas a los ganadores.
+Certificados a los ganadores.
+* Los premios se actualizarán a medida de confirmación de patrocinadores del evento. 
+
+
+
+Equipo de organización:
+
+
+Patrocinadores:
+
+Enlaces importantes:
+Página web del evento: https://ai.gdg.com.bo/
+Convocatoria: b.link/BuildWithAIHackathon
+Formulario de registro: b.link/RegistroBuildWithAI
+Registro página GDG: b.link/RegistroGDGBuildWithAI

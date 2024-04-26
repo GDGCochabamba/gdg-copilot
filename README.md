@@ -1,4 +1,4 @@
-# AI Chatbot
+# GDG Copilot
 
 ## Pre-requisites
 
